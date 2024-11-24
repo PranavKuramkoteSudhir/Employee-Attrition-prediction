@@ -1,4 +1,4 @@
-# OPTIMIZING-EMPLOYEE-ATTRITION-PREDICTION-THROUGH-ADVANCED-ANALYTICS
+# Employee Attrition prediction
 The overarching goal of this project was to employ the HR Analytics data set to uncover the determinants of employee attrition within a company. Through meticulous data processing, feature engineering, and the application of multiple predictive modeling techniques
 
 Predict Employee Attrition: Utilize advanced machine learning algorithms, including Logistic Regression, Random Forest, and XGBoost, to create robust models capable of predicting the likelihood of employee turnover. This objective was pursued with the intention of enabling preemptive interventions for at-risk employees.
